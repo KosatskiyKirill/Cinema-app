@@ -19,7 +19,8 @@ The goal of the project is to create a cinema application with a registration, a
     * create | change | delete | see -> movie sessions
 
 ## :chains: Structure :chains:
-* Controller - accepts client requests and displays information in the browser
+* Controller - accepts client requests, displays information in the browser and sends responses
+
 * Service - сontains all the business logic of our application
 * DAO - Contains all communication with the database
 
